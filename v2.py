@@ -209,7 +209,7 @@ class Zefoy:
 
         task, div = self.tasks[self.option][0]; eval(task)
                
-        video_url_box = f'/html/body/div[{div}]/div/form/div/input'
+        video_url_box = https://www.tiktok.com/@tw_tvd4/video/7428770655513955617?is_from_webapp=1&sender_device=pc&web_id=7260646623889786394
         search_box    = f'/html/body/div[{div}]/div/form/div/div/button'
         
             
